@@ -92,7 +92,6 @@ const Footer = () => {
                 alt="Glassfrog Logo"
                 style={{ marginLeft: "-30px !important" }}
               />
-              
             </div>
             <div className="flex w-full md:w-2/4 sm:w-2/4">
               <div>
@@ -132,19 +131,19 @@ const Footer = () => {
               </div>
             </div>
           </div>
-        
+
           <hr className="mt-6 border-gray-200 sm:mx-auto  lg:mt-8" />
 
           <div className="flex flex-row gap-4 font-semibold my-3 justify-center text-[#6b7280]">
             <a href="/privacy">Privacy Policy</a>
             <a href="/terms">Terms and Conditions</a>
             <a href="/refund">Refund Policy</a>
-            <a href='/contact'>Contact Us</a>
+            <a href="/contact">Contact Us</a>
           </div>
 
           <div className="sm:flex sm:items-center sm:justify-between">
             <span className="text-sm text-gray-500 sm:text-center ">
-              © 2024{" "}
+              © 2025{" "}
               <a href="https://glassfrogtech.com" className="hover:underline">
                 Glassfrog Technology
               </a>
