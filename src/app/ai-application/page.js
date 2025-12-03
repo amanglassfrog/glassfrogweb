@@ -6,6 +6,18 @@ import Ourwork from "../../components/Ourwork/Ourwork";
 import Need from '../../components/Need/Need';
 import Tech from '../../components/techservice/tech';
 
+export const metadata = {
+  title: "Best Artificial Intelligence App Development : AI App London",
+  description: "Page description",
+  openGraph: {
+    title: "Best Artificial Intelligence App Development : AI App London",
+    description: "Page description",
+    url: "https://glassfrogtech.com/ai-application",
+    type: "website"
+  }
+}
+
+
 const page = () => {
     const cardsData = [
   {
