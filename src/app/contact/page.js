@@ -5,6 +5,18 @@ import Image from 'next/image';
 import Ourwork from "../../components/Ourwork/Ourwork";
 import Need from '../../components/Need/Need';
 
+export const metadata = {
+  title: "Contact Us: Glassfrog Technologies",
+  description: "Page description",
+  openGraph: {
+    title: "Contact Us: Glassfrog Technologies",
+    description: "Page description",
+    url: "https://www.glassfrogtech.com/contact",
+    type: "website"
+  }
+}
+
+
 
 
 const page = () => {
