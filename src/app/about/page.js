@@ -60,9 +60,9 @@ Our approach to businesses is very simple. We combine our passion for technicali
                     <div className="flex flex-col md:flex-row sm:flex-col gap-10">
                         {/* First Column */}
                         <div className="  justify-center text-center items-center w-full md:w-1/2 sm:w-1/2">
-                            <h1 className="   we">HOW
-                            </h1><br></br>
-                            <h1 className='glassfrog'>IT STARTED</h1>
+                            <h2 className="   we">HOW
+                            </h2><br></br>
+                            <h2 className='glassfrog'>IT STARTED</h2>
                             <p className="text-white mb-6">
                                 The journey of Glassfrog Technologies began in the year 2021. Fueled by a passion for technical excellence, the Founder, Mr. Amit Bajaj exuded his experience to lay the foundation of a website development and design firm that assisted clients to find the aptly designed platform to market their businesses. <br></br><br></br>
 
@@ -97,9 +97,9 @@ With time, the digital marketing industry induced the sustaining passion for tec
                         </div>
                         {/* First Column */}
                         <div className="  justify-center text-center items-center w-full md:w-1/2 sm:w-1/2">
-                            <h1 className="   we">HOW 
-                            </h1><br></br>
-                            <h1 className='glassfrog'>IT'S GOING</h1>
+                            <h2 className="   we">HOW 
+                            </h2><br></br>
+                            <h2 className='glassfrog'>IT'S GOING</h2>
                             <p className="text-white mb-6">
                             
 Presently, Glassfrog Technologies Private Limited Technologies works in two directions. The first and foremost is Website Development and Design. With the growing employability of Artificial intelligence, the team has developed their adaptability to come up with very innovative solutions to integrate AI to produce promising results. <br></br><br></br>
