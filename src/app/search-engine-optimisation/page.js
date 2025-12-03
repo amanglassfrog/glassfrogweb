@@ -6,6 +6,18 @@ import Ourwork from "../../components/Ourwork/Ourwork";
 import Need from "../../components/Need/Need";
 import Digital from "../../components/digiservice/digital";
 
+export const metadata = {
+  title: "SEO London Agency - Best Search Engine Optimization Agency",
+  description: "Page description",
+  openGraph: {
+    title: "SEO London Agency - Best Search Engine Optimization Agency",
+    description: "Page description",
+    url: "https://www.glassfrogtech.com/search-engine-optimisation",
+    type: "website"
+  }
+}
+
+
 const page = () => {
   const cardsData = [
     {
