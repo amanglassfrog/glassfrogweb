@@ -6,6 +6,18 @@ import Ourwork from "../../components/Ourwork/Ourwork";
 import Need from "../../components/Need/Need";
 import Digital from "../../components/digiservice/digital";
 
+export const metadata = {
+  title: "Best Emailing Marketing Services | E Mail Marketing",
+  description: "Page description",
+  openGraph: {
+    title: "Best Emailing Marketing Services | E Mail Marketing",
+    description: "Page description",
+    url: "https://glassfrogtech.com/email-marketing",
+    type: "website"
+  }
+}
+
+
 const page = () => {
   const cardsData = [
     {
