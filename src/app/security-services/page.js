@@ -6,6 +6,18 @@ import Ourwork from "../../components/Ourwork/Ourwork";
 import Need from '../../components/Need/Need';
 import Tech from '../../components/techservice/tech';
 
+export const metadata = {
+  title: "Network Security in Networking | Cyber Security Companies",
+  description: "Page description",
+  openGraph: {
+    title: "Network Security in Networking | Cyber Security Companies",
+    description: "Page description",
+    url: "https://glassfrogtech.com/security-services",
+    type: "website"
+  }
+}
+
+
 
 const page = () => {
     const cardsData = [
