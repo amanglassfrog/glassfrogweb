@@ -29,7 +29,7 @@ const page = () => {
     <>
       <head>
         <title>Social Media and Advertising | Social Network Advertising</title>
-<meta name="description" content="Grow your business’s engagement and sales with Social Network Marketing that increases your outreach through Social Media Advertising offered by Glassfrog. "/>
+        <meta name="description" content="Grow your business’s engagement and sales with Social Network Marketing that increases your outreach through Social Media Advertising offered by Glassfrog. " />
       </head>
       <Header />
       <section className="bg-slate-950 py-16 ">
@@ -38,10 +38,10 @@ const page = () => {
             {/* First Column */}
             <div className="   w-full md:w-1/2 sm:w-1/2">
               <h1 className="   we">Social Media <span className="glassfrog">Advertising</span></h1>
-              
-              
+
+
               <p className="text-white mb-6">
-                Social media is the ultimate platform for real-time engagement with your target audience. Our team implement strategies to boost web traffic, engagement, and lead conversion rates.  Our business approach is different. Imagine a website that amazes your visitors and social media that buzzes with excitement. We're a team of passionate tech experts and digital marketing pros who work together to create captivating online experiences for your business. Social Media Advertising Social media is the ultimate platform for real-time engagement with your target audience. We create strategies for campaigns that will make your business more visible, heard and connected. Our team create strategies to boost web traffic, increase engagement and lead conversion rates. 
+                Social media is the ultimate platform for real-time engagement with your target audience. Our team implement strategies to boost web traffic, engagement, and lead conversion rates.  Our business approach is different. Imagine a website that amazes your visitors and social media that buzzes with excitement. We're a team of passionate tech experts and digital marketing pros who work together to create captivating online experiences for your business. Social Media Advertising Social media is the ultimate platform for real-time engagement with your target audience. We create strategies for campaigns that will make your business more visible, heard and connected. Our team create strategies to boost web traffic, increase engagement and lead conversion rates.
               </p>
               <p className="text-white mb-6 flex items-center">
                 <a
@@ -65,7 +65,6 @@ const page = () => {
               </p>
             </div>
 
-            {/* Second Column */}
             <div className="flex space-y-8 justify-center gap-16 pt-14 items-center w-full md:w-1/2 sm:w-1/2">
               <Image
                 src="/socialmediaadvertising.png"
