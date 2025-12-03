@@ -5,6 +5,18 @@ import Image from "next/image";
 import Ourwork from "../../components/Ourwork/Ourwork";
 import Need from "../../components/Need/Need";
 
+export const metadata = {
+  title: "Premium Website and Digital Marketing Services in UK",
+  description: "Page description",
+  openGraph: {
+    title: "Premium Website and Digital Marketing Services in UK",
+    description: "Page description",
+    url: "https://www.glassfrogtech.com/services",
+    type: "website"
+  }
+}
+
+
 const page = () => {
   return (
     <>
