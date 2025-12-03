@@ -6,6 +6,18 @@ import Ourwork from "../../components/Ourwork/Ourwork";
 import Need from '../../components/Need/Need';
 import Tech from '../../components/techservice/tech';
 
+export const metadata = {
+  title: "Website Application and Web Application Development",
+  description: "Page description",
+  openGraph: {
+    title: "Website Application and Web Application Development",
+    description: "Page description",
+    url: "https://glassfrogtech.com/web-application",
+    type: "website"
+  }
+}
+
+
 
 const page = () => {
     const cardsData = [
