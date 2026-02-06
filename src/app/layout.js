@@ -102,6 +102,7 @@ export default function RootLayout({ children }) {
     `,
   }}
 ></script>
+  <script src="https://glassfrog-api-production.up.railway.app/loader.js?key=gf_342c3aab7dc00d486e4b9801" async></script>
 
       </head>
       <body className={inter.className}>
